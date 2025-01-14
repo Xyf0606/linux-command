@@ -88,7 +88,7 @@ http://localhost:9665/
 <details>
 <summary>部署结果</summary>
 
-![](./assets/vercel.png)
+![](./img/vercel.png)
 
 </details>
 
@@ -131,7 +131,7 @@ http://localhost:9665/
 
 ## Linux命令分类
 
-*这里存放Linux 命令大全并不全，你可以通过[linux-command](https://jaywcjlove.github.io/linux-command/)来搜索，它是把 [command](./assets/command) 目录里面搜集的命令，生成了静态HTML并提供预览以及索引搜索。*
+*这里存放Linux 命令大全并不全，你可以通过[linux-command](https://jaywcjlove.github.io/linux-command/)来搜索，它是把 [command](./img/command) 目录里面搜集的命令，生成了静态HTML并提供预览以及索引搜索。*
 
 ### 文件传输
 
